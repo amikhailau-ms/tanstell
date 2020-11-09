@@ -1,0 +1,15 @@
+﻿  Tanstell.cpp
+C:\Users\Dell\source\repos\Tanstell\Tanstell\Tanstell.cpp(70,15): warning C4477: 'fscanf' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double *'
+C:\Users\Dell\source\repos\Tanstell\Tanstell\Tanstell.cpp(70,15): message : consider using '%lf' in the format string
+C:\Users\Dell\source\repos\Tanstell\Tanstell\Tanstell.cpp(73,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dell\source\repos\Tanstell\Tanstell\Tanstell.cpp(80,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\source\repos\Tanstell\Tanstell\Tanstell.cpp(98,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\repos\Tanstell\Tanstell\Tanstell.cpp(101,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\source\repos\Tanstell\Tanstell\Tanstell.cpp(102,23): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\Dell\source\repos\Tanstell\Tanstell\Tanstell.cpp(102,23): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'std::string'
+  Generating code
+  10 of 205 functions ( 4.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tanstell.vcxproj -> C:\Users\Dell\source\repos\Tanstell\x64\Release\Tanstell.exe

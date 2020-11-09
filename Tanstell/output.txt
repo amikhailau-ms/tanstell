@@ -1,0 +1,12 @@
+Result code: 000 | Source code: 0000
+Result code: 001 | Source code: 0001
+Result code: 010 | Source code: 001
+Result code: 011 | Source code: 010
+Result code: 100 | Source code: 011
+Result code: 101 | Source code: 100
+Result code: 110 | Source code: 101
+Result code: 111 | Source code: 11
+
+Average word length: 3.056
+W: 0.982
+Entropy: 2.967

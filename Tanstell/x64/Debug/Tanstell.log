@@ -1,0 +1,6 @@
+﻿  Tanstell.cpp
+C:\Users\Dell\source\repos\Tanstell\Tanstell\Tanstell.cpp(73,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dell\source\repos\Tanstell\Tanstell\Tanstell.cpp(80,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\source\repos\Tanstell\Tanstell\Tanstell.cpp(98,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\repos\Tanstell\Tanstell\Tanstell.cpp(101,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Tanstell.vcxproj -> C:\Users\Dell\source\repos\Tanstell\x64\Debug\Tanstell.exe
